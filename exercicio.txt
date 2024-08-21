@@ -1,0 +1,15 @@
+algoritmo
+var: N1, N2, med : real
+
+início
+
+exiba("insira nota 1: ")
+ler(N1)
+
+exiba("insira nota 2: ")
+ler(N2)
+
+med = (N1 + N2)/2
+exiba ("media é: ", med)
+
+fim '-'
